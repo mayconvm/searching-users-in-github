@@ -1,2 +1,9 @@
 # searching-users-in-github
-Searching users in GitHub
+
+#For see result:
+
+* npm install
+* npm install -g webpack
+* webpack
+* Now access folder public
+* Doubleclick in index.html
